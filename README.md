@@ -93,16 +93,7 @@
 
 - [![Replit](https://img.shields.io/badge/GoKuBot-Run%20On%20ReplIT-black?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
 ------
-## Disclaimer
-- We won't be responsible for any kind of ban due to this bot.
-- GoKuBot was made for fun purpose and to make group management easier.
-- It's your concern if you spam and gets your account banned.
-- Also, Forks won't be entertained.
-- If you fork this repo and edit plugins, it's your concern for further updates.
-- Forking Repo is fine. But if you edit something we will not provide any help.
-- In short, Fork At Your Own Risk.
 
-------
 # License
 
 <p align="center">
@@ -113,7 +104,7 @@
     Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [GoKuBot](https://github.com/gwtithu/GoKu_Userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -125,9 +116,7 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ------
-## Credits
-
-- 💖 All the Dependencies
+## CREADITS
 - 💖 [Team GoKu Bot](https://github.com/GoKu_Userbot)
 
 ------
