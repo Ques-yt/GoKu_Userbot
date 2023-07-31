@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="" alt="The-GoKuBot">
+  <img src="https://graph.org/file/0cac8ae423809f8efdb10.jpg" alt="The-GoKuBot">
 </p>
 
 <h6 align="center">
