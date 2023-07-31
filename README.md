@@ -101,7 +101,7 @@
 </p>
 
 <h4 align="center">
-    Copyright (C) 2023 <a href="https://github.com/The-HellBot">The-HellBot</a>
+    Copyright (C) 2023 <a href="https://github.com/gwtithu/GoKu_Userbot">The GoKuBot</a>
 </h4>
 
 Project [GoKuBot](https://github.com/gwtithu/GoKu_Userbot) is free software: you can redistribute it and/or modify
