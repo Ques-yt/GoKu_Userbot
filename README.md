@@ -91,8 +91,7 @@
         - Copy it carefully and Do Not Share With Anyone!
         - Using a fake account is recommended.
 
-- [![Replit](https://img.shields.io/badge/HellBot-Run%20On%20ReplIT-black?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
-- 
+- [![Replit](https://img.shields.io/badge/GoKuBot-Run%20On%20ReplIT-black?style=for-the-badge&logo=replit)](https://replit.com/@TheHellBot/HellBot?v=1)
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
