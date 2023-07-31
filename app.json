@@ -49,7 +49,7 @@
      "BOT_TOKEN": { 
        "description": "Make a bot from @BotFather and paste the bot token here.", 
        "value": "" 
-     } 
+     
    }, 
    "addons": [{ 
      "plan": "heroku-postgresql", 
