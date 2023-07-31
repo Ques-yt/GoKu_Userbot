@@ -15,14 +15,14 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/gw_tithu/GoKu_Userbot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/gw_tithu/Goku_Userbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/gwtithu/GoKu_Userbot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/gwtithu/Goku_Userbot?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/gw_tithu/GoKu_Userbot?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/gwtithu/GoKu_Userbot?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/gw_tithu/GoKu_Userbot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/gwtithu/GoKu_Userbot?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
