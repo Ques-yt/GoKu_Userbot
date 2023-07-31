@@ -16,18 +16,23 @@
 
 ------
 ![GitHub forks](https://img.shields.io/github/forks/gwtithu/GoKu_Userbot?style=social)
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/gwtithu/Goku_Userbot?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/gwtithu/GoKu_Userbot?&style=social&logo=github)
+
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
+
 ![GitHub license](https://img.shields.io/github/license/gwtithu/GoKu_Userbot?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/GoKu_Chatz)
+
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/The_GoKu_Userbot)
 
 ------
