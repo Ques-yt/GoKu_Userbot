@@ -49,7 +49,7 @@
      echo "Enter correct values one by one..." 
      echo -n "APP_ID: "; read api_id 
      echo -n "API_HASH: "; read api_hash 
-     echo -n "GOKU_SESSION: "; read session 
+     echo -n "HELL_SESSION: "; read session 
      echo -n "BOT_TOKEN: "; read bot_token 
      echo -n "DATABASE_URL: "; read db_uri 
      echo "Adding these values to config file..." 
@@ -59,7 +59,7 @@
  class Development(Config): 
      APP_ID = int($api_id) 
      API_HASH = '$api_hash' 
-     GOKU_SESSION = '$session' 
+     HELL_SESSION = '$session' 
      BOT_TOKEN = '$bot_token' 
      DATABASE_URL = '$db_uri' 
      """ > config.py 
