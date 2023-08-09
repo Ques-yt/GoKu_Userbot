@@ -1,5 +1,5 @@
 { 
-     "name": Goku Userbot", 
+     "name": "Goku Userbot", 
      "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.", 
      "keywords": ["pyrogram", "userbot"], 
      "repository": "https://github.com/Geektyper/GoKu_Userbot", 
