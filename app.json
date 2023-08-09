@@ -4,30 +4,49 @@
      "keywords": ["pyrogram", "userbot"], 
      "repository": "https://github.com/Geektyper/GoKu_Userbot", 
    "stack": "container", 
-     "env": { 
+     
          "STRING_SESSION": { 
-             "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator", 
+             "description": "fill with the Pyrogram session string from https://replit.com/@Itz-zaid/Generator", 
              "required": true 
          }, 
-         "MONGO_URL": { 
-             "description": "Fill there an mongo database from mongodb.com", 
+         "DATABASE_URL": { 
+             "description": "Fill there an sql database and paste here", 
              "required": true, 
              "value": "" 
          }, 
-         "SUDO_USERS": { 
-             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id", 
+         "DB_URI": { 
+             "description": "same as DATABASE_URL", 
              "required": true, 
-             "value": "1234567890 1234567890" 
+             "value": "" 
          }, 
-         "OWNER_ID": { 
-             "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id", 
+         "BOT_USERNAME": { 
+             "description": "Fill your bot user name ex. @Hinata_sexy_bot ", 
              "required": true, 
-             "value": "1234567890" 
+             "value": "khud bhar bhai" 
          }, 
          "BOT_TOKEN": { 
              "description": "fill with your bot token get from @BotFather on telegram", 
              "required": true, 
              "value": "" 
          } 
-  
-     } 
+          "LOG_GROUP": { 
+             "description": "Make a Channel Or Group and get it's id", 
+             "required": true, 
+             "value": "Khud bhaar bhai" 
+         } 
+          "APP_ID": { 
+             "description": "Get the value from my.telegram.org ", 
+             "required": true, 
+             "value": "Khud bhaar bhai" 
+         } 
+          "API_HASH": { 
+             "description": "Get the value from my.telegram.org ", 
+             "required": true, 
+             "value": "Khud bhaar bhai" 
+         } 
+          "ENV": { 
+             "description": " don't touch this", 
+             "required": true, 
+             "value": "ANYTHING" 
+         } 
+         
