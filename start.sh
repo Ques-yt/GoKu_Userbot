@@ -1,1 +1,1 @@
-python3 server.py & python3 -m Goku
+python3 server.py & python3 -m goku
